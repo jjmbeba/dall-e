@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link' 
 import Header from '../components/Header'
-import HomeSection from '../components/home'
+import HomeSection from '../components/home.jsx'
 
 export default function Home() {
   return (
